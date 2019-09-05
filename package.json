@@ -1,0 +1,32 @@
+{
+  "name": "react-firebase-authentication",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "filepond": "^4.4.10",
+    "filepond-plugin-image-exif-orientation": "^1.0.6",
+    "filepond-plugin-image-preview": "^4.2.1",
+    "firebase": "^5.5.8",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-filepond": "^7.0.1",
+    "react-responsive-carousel": "^3.1.49",
+    "react-responsive-modal": "^4.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "recompose": "^0.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --passWithNoTests",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

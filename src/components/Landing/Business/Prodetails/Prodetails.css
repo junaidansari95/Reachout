@@ -1,0 +1,28 @@
+.pop{ 
+    position: relative;
+    
+}
+.banya{
+    position: absolute;
+    height: 700px;
+    width: 450px;
+    margin-left: 30px;
+}
+.danya{
+    position: absolute;
+    height: 550px;
+    width: 450px;
+    margin-left: 430px;
+}
+.pim{
+    position: absolute;
+    
+}
+.sim{
+    position: relative;
+    margin-top: 510px;
+    margin-left: 100px;
+}
+.im{
+    padding-right: 13px;
+}

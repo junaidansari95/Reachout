@@ -1,0 +1,20 @@
+.card {
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 0 0.5rem 2.3rem 0.5rem;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #nm{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  #pr{
+    font-size: 14px;
+    font-weight: bold;
+  }
+  #ad{
+    font-size: 14px;
+    font-weight: bold;
+  }
